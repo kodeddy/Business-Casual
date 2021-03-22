@@ -21,6 +21,14 @@ body{
     background-color: rgba(47,23,15,.9);
     max-width: 100% !important;
 }
+.nav-link-text{
+    font-weight: 500;
+    justify-content: center;
+    top: 20px;
+}
+.nav-link-text a{
+    padding-right: 80px;
+}
 .h-780{
     height: 780px;
 }
