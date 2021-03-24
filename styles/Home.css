@@ -1,0 +1,62 @@
+body{
+    background-image: url(../Images/Background\ Img.jpg);
+    background-size: contain;
+    background-attachment: fixed;
+}
+.page-title-div{
+   left: 30%; 
+}
+.page-title-one{
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(230, 167, 86) !important;
+    top: 40px;
+    left: 30px;
+}
+.page-title-two{
+    font-size: 75px;
+    font-family: fangsong;
+}
+.navigation{
+    background-color: rgba(47,23,15,.9);
+    max-width: 100% !important;
+}
+.nav-link-text{
+    font-weight: 500;
+    justify-content: center;
+    top: 20px;
+}
+.nav-link-text a{
+    padding-right: 80px;
+}
+.h-780{
+    height: 780px;
+}
+.img-one-div img{
+    left: 40%;
+}
+.w-60{
+    width: 60%;
+}
+.img-one-text-div{
+    bottom: 220px;
+    left: 240px;
+    max-width: 34%;
+    background-color: rgba(225,225,225,.9);
+    max-height: 305px;
+}
+.Promise-mother-div{
+    background-color: rgba(230,167,86,.9);
+}
+.Promise-child-div{
+    background-color: rgba(225,225,225,.9);
+    max-width: 54%;
+    border-radius: 5px;
+    outline: solid rgba(230,167,86,1);
+    outline-offset: 8px;
+    left: 27%;
+}
+footer{
+    background-color: rgba(47,23,15,.9);
+    color: rgba(255,255,255,.3);
+}

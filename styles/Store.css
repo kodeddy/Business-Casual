@@ -1,0 +1,20 @@
+table td{
+    border-bottom: #e6a756 solid 1px ;
+}
+table td{
+    padding-top: 24px;
+}
+.monday{
+    color: #e6a756;
+    font-weight: 600;
+}
+.contact{
+    left: 12%;
+}
+.call{
+    position: relative;
+    left: 10px;
+}
+.center-div{
+    left: 18%;
+}
